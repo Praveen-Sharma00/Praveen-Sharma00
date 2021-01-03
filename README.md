@@ -36,7 +36,7 @@
 </a>
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Praveen-Sharma00&show_icons=true&line_height=27&count_private=true&theme=buefy" alt="Praveen's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Praveen-Sharma00&show_icons=true&count_private=true&theme=buefy" alt="Praveen's GitHub Stats" />
 </a>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Praveen-Sharma00&show_icons=true&theme=buefy)
