@@ -4,7 +4,7 @@
 </em></p>
 
 
-[![Linkedin: Praveen](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/praveen0/)](https://www.linkedin.com/in/praveen0/)
+[![Linkedin: Praveen](https://img.shields.io/badge/-praveen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/praveen0/)](https://www.linkedin.com/in/praveen0/)
 
 
 
