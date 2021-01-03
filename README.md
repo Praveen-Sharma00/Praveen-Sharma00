@@ -51,10 +51,10 @@
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/Zhenye-Na/DA-RNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveen-Sharma00&repo=nodejs-projects&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="DA-RNN" />
+<a href="https://github.com/Praveen-Sharma00/nodejs-projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveen-Sharma00&repo=nodejs-projects&show_icons=true&line_height=27&title_color=6aa6f8&icon_color=6aa6f8&theme=buefy" alt="Nodejs Projects" />
 </a>
 
 <a href="https://github.com/Zhenye-Na/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveen-Sharma00&repo=nodejs-projects&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="crnn-pytorch" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveen-Sharma00&repo=nodejs-projects&show_icons=true&line_height=27&title_color=6aa6f8&theme=buefy" alt="crnn-pytorch" />
 </a>
