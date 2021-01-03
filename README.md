@@ -13,8 +13,20 @@
 
 
   #### 👨🏻‍💻 Languages and Tools <br />
-  <code><img height="40" src="images/nodejs.png"></code>
-   <code><img height="40" src="images/nodejs.png"></code>
+  <code><img height="40" src="images/nestjs.png"></code>
+  <code><img height="40" src="images/node.png"></code>
+   <code><img height="40" src="images/socketio.png"></code>
+   <code><img height="40" src="images/ts.png"></code>
+   <code><img height="40" src="images/vue.png"></code>
+   <code><img height="40" src="images/react.png"></code>
+   <code><img height="40" src="images/python.png"></code>
+   
+   
+   <code><img height="40" src="images/git.png"></code>
+   <code><img height="40" src="images/docker.png"></code>
+  <code><img height="40" src="images/mongo.png"></code>
+  <code><img height="40" src="images/pg.png"></code>
+  <code><img height="40" src="images/gcp.png"></code>
  </div>
  
 ## &#x1f4c8; GitHub Stats
