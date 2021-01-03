@@ -32,7 +32,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="#">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Sharma00&hide=c%2B%2B,c,html&theme=buefy" alt="Praveen's GitHub Stats" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Sharma00&hide=c%2B%2B,c,html&theme=buefy&layout=compact" alt="Praveen's GitHub Stats" />
 </a>
 
 <a href="#">
