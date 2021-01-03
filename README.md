@@ -3,8 +3,7 @@
   
   <h3> 💻 Software Engineer | <a href="https://www.liftoffllc.com">LiftOff LLC</a></h3>
 
-<p align="center"><em><a href="https://www.liftoffllc.com">LiftOff LLC</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+
 
 
 [![Linkedin: Praveen](https://img.shields.io/badge/-Praveen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/praveen0/)](https://www.linkedin.com/in/praveen0/)
