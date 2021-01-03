@@ -10,7 +10,7 @@
 
 
   #### 👨🏻‍💻 Languages and Tools <br />
-  
+  <code><img height="40" src="images/core.png"></code>
   <code><img height="40" src="images/nestjs.png"></code>
   <code><img height="40" src="images/node.png"></code>
    <code><img height="40" src="images/socketio.png"></code>
