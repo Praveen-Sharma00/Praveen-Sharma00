@@ -50,6 +50,9 @@
 ## 🗂️ Highlight Projects
 
 <div align="center">
+  <a href="https://github.com/Praveen-Sharma00/ChatApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveen-Sharma00&repo=ChatApp&show_icons=true&line_height=27&title_color=6aa6f8&theme=buefy" alt="BMI Calculator" />
+    
 <a href="https://github.com/Praveen-Sharma00/nodejs-projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveen-Sharma00&repo=nodejs-projects&show_icons=true&line_height=27&title_color=6aa6f8&icon_color=6aa6f8&theme=buefy" alt="Nodejs Projects" />
 </a>
@@ -59,7 +62,6 @@
 </a>
 
 
-<a href="https://github.com/Praveen-Sharma00/ChatApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveen-Sharma00&repo=ChatApp&show_icons=true&line_height=27&title_color=6aa6f8&theme=buefy" alt="BMI Calculator" />
+
 </a>
 </div>
