@@ -28,7 +28,16 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
  </div>
-  
+ 
+## &#x1f4c8; GitHub Stats
+
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Sharma00&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Praveen's GitHub Stats" />
+
+
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Praveen-Sharma00&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Praveen's GitHub Stats" />
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Praveen-Sharma00&show_icons=true&theme=buefy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Sharma00&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
