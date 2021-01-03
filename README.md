@@ -32,11 +32,11 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="#">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Sharma00&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Praveen's GitHub Stats" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Sharma00&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&theme=buefy" alt="Praveen's GitHub Stats" />
 </a>
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Praveen-Sharma00&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Praveen's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Praveen-Sharma00&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&theme=buefy" alt="Praveen's GitHub Stats" />
 </a>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Praveen-Sharma00&show_icons=true&theme=buefy)
