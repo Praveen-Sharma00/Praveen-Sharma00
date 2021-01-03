@@ -6,7 +6,7 @@
 
 
  <code><a href="https://www.linkedin.com/in/praveen0/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/Praveen_Sharma00" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://www.hackerrank.com/Praveen_Sharma00" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   
 [![Linkedin: Praveen](https://img.shields.io/badge/-Praveen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/praveen0/)](https://www.linkedin.com/in/praveen0/)
 
