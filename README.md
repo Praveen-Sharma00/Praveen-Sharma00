@@ -1,5 +1,5 @@
 <div align="center">
-<h2>नमस्ते (Namaste)🙏🏻, I'm Praveen Sharma! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hi there<img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 🏻, I'm Praveen Sharma! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Praveen Sharma | 💻 Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
