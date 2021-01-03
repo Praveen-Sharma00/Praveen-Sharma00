@@ -33,7 +33,7 @@
 <div align="center">
   
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Praveen-Sharma00&show_icons=true&count_private=true&theme=buefy&hide=star_count&custom_title=Praveen's GitHub stats" alt="Praveen's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Praveen-Sharma00&show_icons=true&count_private=true&theme=buefy&custom_title=Praveen's GitHub stats" alt="Praveen's GitHub Stats" />
 </a>
 <a href="#" align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Sharma00&layout=compact&theme=buefy" alt="Praveen's GitHub Stats" />
