@@ -44,7 +44,7 @@
 
 <div  align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Praveen-Sharma00&column=8&theme=buefy&custom_title=Praveen's GitHub stats" alt="Praveen's GitHub Trophies" />
-  </div>
+</div>
 
 
 
@@ -53,16 +53,10 @@
 <div align="center">
   <a href="https://github.com/Praveen-Sharma00/ChatApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveen-Sharma00&repo=ChatApp&show_icons=true&line_height=27&title_color=6aa6f8&theme=buefy" alt="BMI Calculator" />
-    
 <a href="https://github.com/Praveen-Sharma00/nodejs-projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveen-Sharma00&repo=nodejs-projects&show_icons=true&line_height=27&title_color=6aa6f8&icon_color=6aa6f8&theme=buefy" alt="Nodejs Projects" />
 </a>
-
 <a href="https://github.com/Praveen-Sharma00/BMI-Calcuator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveen-Sharma00&repo=BMI-Calcuator&show_icons=true&line_height=27&title_color=6aa6f8&theme=buefy" alt="BMI Calculator" />
-</a>
-
-
-
 </a>
 </div>
