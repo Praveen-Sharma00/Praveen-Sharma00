@@ -13,8 +13,8 @@
 
 
   #### 👨🏻‍💻 Languages and Tools <br />
-  <code><img height="40" src="https://github.com/Praveen-Sharma00/Praveen-Sharma00/blob/main/images/nodejs.png"></code>
-   <code><img height="40" src="https://github.com/Praveen-Sharma00/Praveen-Sharma00/blob/main/images/nodejs.png"></code>
+  <code><img height="40" src="images/nodejs.png"></code>
+   <code><img height="40" src="images/nodejs.png"></code>
  </div>
  
 ## &#x1f4c8; GitHub Stats
