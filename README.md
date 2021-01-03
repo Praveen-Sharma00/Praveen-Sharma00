@@ -44,6 +44,7 @@
 
 <div  align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Praveen-Sharma00&column=8&theme=buefy&custom_title=Praveen's GitHub stats" alt="Praveen's GitHub Trophies" />
+  </div>
 
 
 
