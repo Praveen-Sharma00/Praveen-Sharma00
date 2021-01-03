@@ -10,6 +10,7 @@
 
 
   #### 👨🏻‍💻 Languages and Tools <br />
+  <code><img height="40" src="images/csharp.jpg"></code>
   <code><img height="40" src="images/core.png"></code>
   <code><img height="40" src="images/nestjs.png"></code>
   <code><img height="40" src="images/node.png"></code>
@@ -22,6 +23,7 @@
    <code><img height="40" src="images/docker.png"></code>
   <code><img height="40" src="images/mongo.png"></code>
   <code><img height="40" src="images/pg.png"></code>
+   <code><img height="40" src="images/redis.png"></code>
   <code><img height="40" src="images/gcp.png"></code>
 </div>
  
