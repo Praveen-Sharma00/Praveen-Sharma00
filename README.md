@@ -30,7 +30,7 @@
  </div>
  
 ## &#x1f4c8; GitHub Stats
-
+<div align="center">
 <a href="#">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Sharma00&layout=compact&theme=buefy" alt="Praveen's GitHub Stats" />
 </a>
@@ -38,13 +38,15 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Praveen-Sharma00&show_icons=true&count_private=true&theme=buefy&custom_title=Praveen's GitHub stats" alt="Praveen's GitHub Stats" />
 </a>
-
+</div>
 
 ## 🏆 GitHub Trophies
 
+<div align="center">
 <a href="#">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Praveen-Sharma00&column=8&theme=buefy&custom_title=Praveen's GitHub stats" alt="Praveen's GitHub Trophies" />
 </a>
+</div>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Praveen-Sharma00&show_icons=true&theme=buefy)
 
