@@ -56,5 +56,5 @@
 </a>
 
 <a href="https://github.com/Praveen-Sharma00/BMI-Calcuator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveen-Sharma00&repo=nodejs-projects&show_icons=true&line_height=27&title_color=6aa6f8&theme=buefy" alt="BMI Calculator" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveen-Sharma00&repo=BMI-Calculator&show_icons=true&line_height=27&title_color=6aa6f8&theme=buefy" alt="BMI Calculator" />
 </a>
