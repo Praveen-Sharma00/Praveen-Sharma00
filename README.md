@@ -31,7 +31,7 @@
  
 ## &#x1f4c8; GitHub Stats
 <div align="center">
-<a href="#">
+<a href="#" align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Sharma00&layout=compact&theme=buefy" alt="Praveen's GitHub Stats" />
 </a>
 
@@ -43,11 +43,18 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<a href="#">
+<a href="#" align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Praveen-Sharma00&column=8&theme=buefy&custom_title=Praveen's GitHub stats" alt="Praveen's GitHub Trophies" />
 </a>
 </div>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Praveen-Sharma00&show_icons=true&theme=buefy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Sharma00&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/Zhenye-Na/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="DA-RNN" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="crnn-pytorch" />
+</a>
