@@ -42,7 +42,13 @@
 
 ## 🏆 GitHub Trophies
 
+<a href="#">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Praveen-Sharma00&theme=nord&column=8&theme=buefy&custom_title=Praveen's GitHub stats" alt="Praveen's GitHub Trophies" />
+</a>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Praveen-Sharma00&theme=nord&column=8&theme=buefy)]
+
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Praveen-Sharma00&show_icons=true&theme=buefy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Sharma00&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
