@@ -17,6 +17,7 @@
    <code><img height="40" src="images/socketio.png"></code>
    <code><img height="40" src="images/ts.png"></code>
    <code><img height="40" src="images/vue.png"></code>
+   <code><img height="40" src="images/k8.png"></code>
    <br/>
    <code><img height="40" src="images/react.png"></code>
    <code><img height="40" src="images/python.png"></code>
