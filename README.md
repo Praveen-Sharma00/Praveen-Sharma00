@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Praveen Sharma! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">, I'm Praveen Sharma! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="10">
   </h2>
   <h3> 💻 Software Engineer | <a href="https://www.liftoffllc.com">LiftOff LLC</a></h3>
   <code><a href="https://www.linkedin.com/in/praveen0/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
